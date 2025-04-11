@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 There isn't much here, of course. I might do and post random projects of sort, but besides that, there isn't much.
 <!--
 **Re1muri/Re1muri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
